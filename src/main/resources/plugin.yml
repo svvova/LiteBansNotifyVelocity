@@ -1,0 +1,4 @@
+name: LiteBansNotifyVelocity
+version: '1.0'
+main: org.blood.liteBansNotifyVelocity.LiteBansNotifyVelocity
+api-version: '1.21'
